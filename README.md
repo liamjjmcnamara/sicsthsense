@@ -1,7 +1,7 @@
 SICSthSense
 ===========
 
-We have a documentation site describing the project and how to get started!
+We have a documentation site describing the project and how to get started:
 http://docs.sense.sics.se
 
 This repository contain many different aspects of the SICSthSense system:
