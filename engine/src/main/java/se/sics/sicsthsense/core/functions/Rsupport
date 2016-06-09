@@ -1,0 +1,21 @@
+
+brew install r
+
+R CMD javareconf JAVA_CPPFLAGS=-I/System/Library/Frameworks/JavaVM.framework/Headers
+
+install.packages("rJava")
+
+installing via 'install.libs.R' to /usr/local/lib/R/3.2/site-library/rJava
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (rJava)
+
+The downloaded source packages are in
+	‘/private/var/folders/jl/9c6641094_x163p1dsq2phtm0000gn/T/RtmpD1oQpJ/downloaded_packages’
+
+rJava now includes JRI 
