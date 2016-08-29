@@ -16,4 +16,3 @@ This repository contain many different aspects of the SicsthSense system:
 
 The `INSTALL.sh` script will build the database (using `buildDB.sql`) and copy the required configuration files (for Play in `web`)
 
-
