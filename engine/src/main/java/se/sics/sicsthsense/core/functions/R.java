@@ -49,6 +49,7 @@ public class R extends Function {
 	public List<DataPoint> apply(List<Long> streamIds) {
 		List<DataPoint> rv = new ArrayList<DataPoint>();
 		long latest=-1;
+		int k=0;
 
 		if (streamIds==null) {
 			logger.error("Stream IDs are null!!");
